@@ -28,13 +28,6 @@
 
 
 
-adf
-
-asdf
-
-APP_VAR app_var;
-
-
 
 
 
