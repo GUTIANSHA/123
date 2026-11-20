@@ -25,7 +25,7 @@
 #define LOG_CLI_ENABLE
 #include "debug.h"
 
-
+111111111
 
 
 void app_entry_idle()
