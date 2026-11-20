@@ -4,7 +4,7 @@
 /*
  *  板级配置选择
  */
-
+威威企鹅
 #define CONFIG_BOARD_AC695X_DEMO
 // #define CONFIG_BOARD_AC6951_KGB_V1
 // #define CONFIG_BOARD_AC6955F_HEADSET_MONO
