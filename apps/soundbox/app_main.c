@@ -26,7 +26,7 @@
 #include "debug.h"
 
 111111111
-
+士大夫首发式地方
 
 void app_entry_idle()
 {
